@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 
+import gi
+gi.require_version('Rsvg', '2.0')
 from gi.repository import Rsvg
-from gi.repository import Pango
-from gi.repository import PangoCairo
 import cairo
 import math
-import re
-import collections
 
 POINTS_PER_MM = 2.8346457
 
