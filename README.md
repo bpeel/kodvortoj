@@ -3,10 +3,12 @@
 Ankoraŭ necesas la originala ludo por havi la ceterajn kartojn kiuj
 ne temas pri la vortoj.
 
-Por ruli la skripton oni unue devas instali la dependajn pakaĵojn. Ĉe
-Fedora oni povas ruli la jenan komandon:
+Se vi volas simple havi la PDF, elŝutu ĝin de [ĉi tie](https://bpeel.github.io/kodvortoj/kodvortoj.pdf).
 
-    sudo dnf install librsvg2 python3-gobject.x86_64 python3-cairo python3
+Alikaze, por ruli la skripton oni unue devas instali la dependajn
+pakaĵojn. Ĉe Fedora oni povas ruli la jenan komandon:
+
+    sudo dnf install librsvg2 python3-gobject python3-cairo python3
 
 Poste simple rulu la skripton:
 
